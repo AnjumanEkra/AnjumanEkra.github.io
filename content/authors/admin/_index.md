@@ -17,7 +17,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Student
+role: Computer Science Student
 
 # Organizations/Affiliations to display in the Biography block
 organizations:
@@ -34,8 +34,9 @@ profiles:
   - icon: brands/github
     url: https://github.com/AnjumanEkra
   - icon: brands/linkedin
-    url: https://www.linkedin.com/feed/
+    url: https://www.linkedin.com/in/anjuman-ekra/
 
+# Interests
 interests:
   - Artificial Intelligence
   - Robotics
@@ -44,6 +45,7 @@ interests:
   - Photography
   - Hiking
 
+# Education
 education:
   - area: Computer Science and Engineering
     institution: Jahangirnagar University
@@ -72,6 +74,7 @@ education:
       - Chemistry
       - Mathematics
 
+# Work Experience
 work:
   - position: Executive Member
     company_name: Jahangirnagar University Robotics Club (JURC)
@@ -129,6 +132,7 @@ skills:
         percent: 75
         icon: badminton
 
+# Languages
 languages:
   - name: English
     percent: 100
