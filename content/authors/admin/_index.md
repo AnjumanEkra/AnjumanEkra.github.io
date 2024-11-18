@@ -22,7 +22,7 @@ highlight_name: true
 # Role/position/tagline
 role: CSE Student, Aspiring Software Engineer
 
-# Organizations/Affiliations to display in Biography blox
+# Organizations/Affiliations to display in Biography block
 organizations:
   - name: Jahangirnagar University
     url: https://juniv.edu/
