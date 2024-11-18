@@ -3,7 +3,7 @@
 title: Anjuman Ekra
 
 # Name pronunciation (optional)
-name_pronunciation: An-joo-man Ek-ra
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Anjuman
@@ -11,7 +11,7 @@ last_name: Ekra
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🎓
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,24 +20,24 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: CSE Student, Aspiring Software Engineer
+role: Computer Science and Engineering Student, Aspiring Software Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name:  Jahangirnagar University
+    url: https://juniv.edu/
 
 # Social network links
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:ekra.stu2019@juniv.edu'
     label: E-mail Me
+  - icon: brands/instagram
+    url: https://www.instagram.com/phoenix_eku/
   - icon: brands/github
-    url: https://github.com/yourgithubusername
-    label: GitHub
+    url: https://github.com/AnjumanEkra
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/yourlinkedinprofile
-    label: LinkedIn
+    url: https://www.linkedin.com/in/anjuman-ekra/
 
 interests:
   - Software Engineering
@@ -47,42 +47,48 @@ interests:
 
 education:
   - area: BSc Computer Science and Engineering
-    institution: [Your University Name]
+    institution: Jahangirnagar University
     date_start: 2022-01-01
     date_end: 2026-12-31
     summary: |
       Currently pursuing a degree in Computer Science and Engineering, with a focus on software development and AI.
 
 work:
-  - position: Intern
-    company_name: [Company Name]
-    company_url: ''
-    company_logo: ''
-    date_start: 2024-06-01
-    date_end: 2024-08-31
-    summary: |
+  - position: Executive Member
+    company_name: Jahangirnagar University Robotics Club (JURC)
+    date_start: 2022-01-01
+    date_end: Present
+    summary: |2-
       Responsibilities include:
-      - Assisted in developing web applications using React and Node.js.
-      - Worked on database design and optimization.
-      - Contributed to software testing and bug fixing.
+      - Designing and implementing robotics projects like LFR and Robo Soccer
+      - Organizing and leading workshops on robotics and AI technologies
+      - Collaborating with team members to innovate and experiment with new ideas
+  - position: Web Development Intern
+    company_name: ABC Tech Solutions
+    date_start: 2023-06-01
+    date_end: 2023-08-01
+    summary: |
+      - Built and optimized responsive websites using HTML, CSS, and JavaScript
+      - Debugged and enhanced performance of existing web applications
+      - Worked with a cross-functional team to deliver user-centric designs
 
 skills:
   - name: Technical Skills
     items:
       - name: Python
-        description: ''
+        
         percent: 70
         icon: code-bracket
       - name: JavaScript
-        description: ''
+       
         percent: 80
         icon: code-bracket
       - name: SQL
-        description: ''
+        
         percent: 60
         icon: circle-stack
       - name: HTML/CSS
-        description: ''
+       
         percent: 90
         icon: code
   - name: Hobbies
@@ -90,25 +96,27 @@ skills:
     color_border: '#f0bf23'
     items:
       - name: Coding
-        description: ''
+        
         percent: 90
         icon: code
       - name: Reading
-        description: ''
+       
         percent: 70
         icon: book
       - name: Gaming
-        description: ''
+       
         percent: 60
         icon: gamepad
 
 languages:
   - name: English
-    percent: 100
-  - name: Bengali
     percent: 80
+  - name: Bengali
+    percent: 100
   - name: Hindi
     percent: 60
+  - name: Arabic
+    percent: 80
 
 awards:
   - title: Neural Networks and Deep Learning
