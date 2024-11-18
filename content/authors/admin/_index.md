@@ -24,27 +24,23 @@ role: Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Department Of Computer Science and Engineering
+    url: 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:ekra.stu2019@juniv.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+  
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/phoenix_eku/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/AnjumanEkra
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/feed/
+
 
 interests:
   - Artificial Intelligence
