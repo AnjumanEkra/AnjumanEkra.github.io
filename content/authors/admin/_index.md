@@ -31,20 +31,17 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:anjuman.ekra@example.com'
+    url: 'mailto:anjumanekra016305@gmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/AnjumanEkra
   - icon: brands/instagram
-    url: https://www.instagram.com/anjuman.ekra
+    url:  https://www.instagram.com/phoenix_eku/
   - icon: brands/github
-    url: https://github.com/anjuman-ekra
+    url: https://github.com/AnjumanEkra
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/anjuman-ekra
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://www.linkedin.com/in/anjuman-ekra/
+  
 
 interests:
   - Artificial Intelligence
@@ -53,7 +50,7 @@ interests:
 
 education:
   - area: BSc Computer Science & Engineering
-    institution: XYZ University
+    institution: Jahangirnagar University
     date_start: 2021-01-01
     date_end: 2025-12-31
     summary: |
