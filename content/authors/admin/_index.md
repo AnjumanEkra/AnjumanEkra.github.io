@@ -2,16 +2,9 @@
 # Display name
 title: Anjuman Ekra
 
-# Name pronunciation (optional)
-name_pronunciation: 
-
 # Full name (for SEO)
 first_name: Anjuman
 last_name: Ekra
-
-# Status emoji
-status:
-  icon: 🎓
 
 # Is this the primary user of the site?
 superuser: true
@@ -19,12 +12,9 @@ superuser: true
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
-# Role/position/tagline
-role: Computer Science and Engineering Student, Aspiring Software Engineer
-
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name:  Jahangirnagar University
+  - name: Jahangirnagar University
     url: https://juniv.edu/
 
 # Social network links
@@ -76,19 +66,15 @@ skills:
   - name: Technical Skills
     items:
       - name: Python
-        
         percent: 70
         icon: code-bracket
       - name: JavaScript
-       
         percent: 80
         icon: code-bracket
       - name: SQL
-        
         percent: 60
         icon: circle-stack
       - name: HTML/CSS
-       
         percent: 90
         icon: code
   - name: Hobbies
@@ -96,15 +82,12 @@ skills:
     color_border: '#f0bf23'
     items:
       - name: Coding
-        
         percent: 90
         icon: code
       - name: Reading
-       
         percent: 70
         icon: book
       - name: Gaming
-       
         percent: 60
         icon: gamepad
 
