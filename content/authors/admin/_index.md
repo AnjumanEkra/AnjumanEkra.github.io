@@ -169,5 +169,4 @@ about:
     As an executive member of the Jahangirnagar University Robotics Club (JURC), I actively participate in innovative projects such as Line Following Robots (LFR) and Robo Soccer. My academic foundation is strengthened by a passion for continuous learning, and I enjoy exploring cutting-edge technologies like Artificial Intelligence.
 
     Beyond academics, I am an avid hiker and photographer, and I enjoy playing badminton during my leisure time. I am multilingual, fluent in English and Bangla, with conversational skills in Hindi. My goal is to leverage my technical and interpersonal skills to contribute to impactful projects in AI, robotics, and web development.
-
 ---
