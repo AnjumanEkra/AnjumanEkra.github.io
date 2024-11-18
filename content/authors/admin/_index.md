@@ -3,7 +3,7 @@
 title: Anjuman Ekra
 
 # Name pronunciation (optional)
-name_pronunciation: 
+name_pronunciation: An-joo-man Ek-ra
 
 # Full name (for SEO)
 first_name: Anjuman
@@ -11,7 +11,7 @@ last_name: Ekra
 
 # Status emoji
 status:
-  icon: 🎓
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,115 +20,153 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: CSE Student, Aspiring Software Engineer
+role: CSE Student
 
-# Organizations/Affiliations to display in Biography block
+# Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Jahangirnagar University
-    url: https://juniv.edu/
+  - name: OpenAI
+    url: https://openai.com/
 
 # Social network links
+# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:ekra.stu2019@juniv.edu'
+    url: 'mailto:anjuman.ekra@example.com'
     label: E-mail Me
+  - icon: brands/x
+    url: https://twitter.com/AnjumanEkra
   - icon: brands/instagram
-    url: https://www.instagram.com/phoenix_eku/
+    url: https://www.instagram.com/anjuman.ekra
   - icon: brands/github
-    url: https://github.com/AnjumanEkra
+    url: https://github.com/anjuman-ekra
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/anjuman-ekra/
+    url: https://www.linkedin.com/in/anjuman-ekra
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/
+  - icon: academicons/orcid
+    url: https://orcid.org/
 
 interests:
+  - Artificial Intelligence
   - Software Engineering
   - Web Development
-  - Artificial Intelligence
-  - Databases
 
 education:
-  - area: BSc Computer Science and Engineering
-    institution: Jahangirnagar University
-    date_start: 2022-01-01
-    date_end: 2026-12-31
+  - area: BSc Computer Science & Engineering
+    institution: XYZ University
+    date_start: 2021-01-01
+    date_end: 2025-12-31
     summary: |
-      Currently pursuing a degree in Computer Science and Engineering, with a focus on software development and AI.
+      Focus on software development, machine learning, and data science.
+    button:
+      text: 'View Transcript'
+      url: 'https://xyz.edu/anjuman-ekra-transcript'
+  - area: High School
+    institution: ABC School
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      GPA: 3.9/4.0
+      
+      Subjects included:
+      - Mathematics
+      - Computer Science
+      - Physics
 
 work:
-  - position: Executive Member
-    company_name: Jahangirnagar University Robotics Club (JURC)
-    date_start: 2022-01-01
-    date_end: Present
-    summary: |2-
-      Responsibilities include:
-      - Designing and implementing robotics projects like LFR and Robo Soccer
-      - Organizing and leading workshops on robotics and AI technologies
-      - Collaborating with team members to innovate and experiment with new ideas
-  - position: Web Development Intern
-    company_name: ABC Tech Solutions
+  - position: Intern
+    company_name: Tech Innovations
+    company_url: ''
+    company_logo: ''
     date_start: 2023-06-01
-    date_end: 2023-08-01
+    date_end: 2023-08-31
     summary: |
-      - Built and optimized responsive websites using HTML, CSS, and JavaScript
-      - Debugged and enhanced performance of existing web applications
-      - Worked with a cross-functional team to deliver user-centric designs
+      Responsibilities include:
+      - Developed web applications using React.js and Node.js
+      - Collaborated with the development team to implement new features
+      - Improved UI/UX design of the company's website
+  - position: Freelance Web Developer
+    company_name: Self-employed
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-06-01
+    date_end: 2023-05-31
+    summary: |
+      Responsibilities include:
+      - Designed and developed websites for clients
+      - Implemented responsive design for better user experience
+      - Optimized websites for search engines (SEO)
 
+# Skills
+# Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
       - name: Python
+        description: ''
         percent: 70
         icon: code-bracket
-      - name: JavaScript
+      - name: Web Development
+        description: ''
         percent: 80
-        icon: code-bracket
-      - name: SQL
-        percent: 60
-        icon: circle-stack
-      - name: HTML/CSS
-        percent: 90
         icon: code
+      - name: Machine Learning
+        description: ''
+        percent: 60
+        icon: brain
   - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+    color: '#ff5733'
+    color_border: '#ff6f47'
     items:
-      - name: Coding
-        percent: 90
-        icon: code
       - name: Reading
-        percent: 70
+        description: ''
+        percent: 80
         icon: book
-      - name: Gaming
+      - name: Traveling
+        description: ''
+        percent: 70
+        icon: plane
+      - name: Photography
+        description: ''
         percent: 60
-        icon: gamepad
+        icon: camera
 
 languages:
   - name: English
-    percent: 80
+    percent: 90
   - name: Bengali
     percent: 100
   - name: Hindi
-    percent: 60
-  - name: Arabic
-    percent: 80
+    percent: 75
 
+# Awards.
+#   Add/remove as many awards below as you like.
+#   Only `title`, `awarder`, and `date` are required.
+#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
+  - title: Web Development Bootcamp
+    url: https://www.udemy.com/course/the-web-developer-bootcamp/
+    date: '2024-04-01'
+    awarder: Udemy
+    icon: udemy
+    summary: |
+      Completed a comprehensive web development bootcamp covering front-end and back-end technologies. Gained hands-on experience with React, Node.js, HTML, CSS, and JavaScript.
+  - title: Data Science Fundamentals
+    url: https://www.coursera.org/learn/data-science-fundamentals
+    date: '2023-12-15'
     awarder: Coursera
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Full Stack Web Development
-    url: https://www.freecodecamp.org/certification/yourcertificationurl
-    date: '2024-08-01'
-    awarder: freeCodeCamp
-    icon: freecodecamp
+      Learned essential concepts in data science, including data manipulation, analysis, and visualization techniques using Python and R.
+  - title: Programming with Python
+    url: https://www.datacamp.com/courses/intro-to-python
+    certificate_url: https://www.datacamp.com
+    date: '2023-06-10'
+    awarder: DataCamp
+    icon: datacamp
     summary: |
-      Learned full stack web development including JavaScript, Node.js, React, HTML, CSS, and MongoDB.
-
+      Covered the basics of Python programming, including variables, data types, control structures, and functions.
 ---
-
 ## About Me
 
-I am Anjuman Ekra, a third-year Computer Science and Engineering student with a passion for software development, artificial intelligence, and web development. I enjoy solving complex problems, building efficient systems, and continuously improving my technical skills. I have worked on several projects, focusing on full-stack development, database design, and automation. In my free time, I like to read, game, and keep up with the latest trends in technology.
+Anjuman Ekra is a third-year Computer Science & Engineering student passionate about artificial intelligence, software development, and web technologies. She is committed to exploring machine learning, data science, and web development, and has experience working on web applications, both independently and as an intern.
