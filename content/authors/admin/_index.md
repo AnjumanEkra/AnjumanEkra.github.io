@@ -2,15 +2,25 @@
 # Display name
 title: Anjuman Ekra
 
+# Name pronunciation (optional)
+name_pronunciation: 
+
 # Full name (for SEO)
 first_name: Anjuman
 last_name: Ekra
+
+# Status emoji
+status:
+  icon: 🎓
 
 # Is this the primary user of the site?
 superuser: true
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
+# Role/position/tagline
+role: CSE Student, Aspiring Software Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
