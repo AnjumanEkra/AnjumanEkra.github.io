@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:anjumanekra016305@gmail.com'
+    url: 'mailto:ekra.stu2019@juniv.edu'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/AnjumanEkra
@@ -40,7 +40,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/AnjumanEkra
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/anjuman-ekra/
+    url: https://www.linkedin.com/in/anjuman-are-ekra-b21b01336/?trk=opento_sprofile_topcard
   
 
 interests:
@@ -58,17 +58,30 @@ education:
     button:
       text: 'View Transcript'
       url: 'https://xyz.edu/anjuman-ekra-transcript'
-  - area: High School
-    institution: ABC School
+  - area: HSC
+    institution: Narayanganj Govt. Mohila College
     date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_end: 2019-12-31
     summary: |
-      GPA: 3.9/4.0
+      GPA: 5.0/5.0
       
       Subjects included:
       - Mathematics
-      - Computer Science
+      - Chemistry
       - Physics
+      -Biolology
+  - area: SSC
+    institution: Narayanganj Govt. Girls High School And College
+    date_start: 2011-01-01
+    date_end: 2016-12-31
+    summary: |
+      GPA: 5.0/5.0
+      
+      Subjects included:
+      - Mathematics
+      - Chemistry
+      - Physics
+      -Biolology
 
 work:
   - position: Intern
