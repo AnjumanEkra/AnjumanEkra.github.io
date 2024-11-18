@@ -160,9 +160,10 @@ awards:
 # About Me
 about:
   summary: |
-    I am Anjuman Ekra, a Computer Science and Engineering (CSE) student in my 3rd year, 1st semester. My interests span web development, robotics, and data science. I have a strong foundation in programming languages such as C, C++, and Java, along with web development technologies like HTML and CSS.
+    I am Anjuman Ekra, a Computer Science and Engineering (CSE) student currently in my 3rd year, 1st semester at Jahangirnagar University. My interests lie in web development, robotics, and data science. I have strong technical skills in programming languages such as C, C++, and Java, along with proficiency in web technologies like HTML, CSS, and JavaScript.
 
-    In addition to my academic pursuits, I am passionate about learning new technologies and contributing to innovative projects. I enjoy activities like hiking, photography, and playing badminton, which allow me to stay active and creative. I am also multilingual, proficient in English and Bangla, with a conversational understanding of Hindi.
+    As an executive member of the Jahangirnagar University Robotics Club (JURC), I actively participate in innovative projects such as Line Following Robots (LFR) and Robo Soccer. My academic foundation is strengthened by a passion for continuous learning, and I enjoy exploring cutting-edge technologies like Artificial Intelligence.
 
-    My goal is to continuously grow as a software developer and researcher, exploring cutting-edge fields like artificial intelligence and robotics to make impactful contributions to society.
+    Beyond academics, I am an avid hiker and photographer, and I enjoy playing badminton during my leisure time. I am multilingual, fluent in English and Bangla, with conversational skills in Hindi. My goal is to leverage my technical and interpersonal skills to contribute to impactful projects in AI, robotics, and web development.
+
 ---
