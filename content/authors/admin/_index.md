@@ -3,7 +3,7 @@
 title: Anjuman Ekra
 
 # Name pronunciation (optional)
-name_pronunciation: An-joo-man Ek-ra
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Anjuman
@@ -11,7 +11,7 @@ last_name: Ekra
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🎓
 
 # Is this the primary user of the site?
 superuser: true
@@ -24,8 +24,8 @@ role: CSE Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Department of Computer Science And Engineering
+    url: https://juniv.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
