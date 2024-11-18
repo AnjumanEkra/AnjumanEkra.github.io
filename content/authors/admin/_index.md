@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:ekra.stu2019@juniv.edu'
+    url: ekra.stu2019@juniv.edu
     label: E-mail Me
   
   - icon: brands/instagram
@@ -44,14 +44,18 @@ profiles:
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Robotics
+  - Web Development
+  - Data Science
+  - Photography
+  - Hiking
+
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Computer Science And Engineering
+    institution: Jahangirnagar University
+    date_start: 2019-03-07
+    date_end: 2026-12-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -80,97 +84,91 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+  - position: Executive Member
+    company_name: Jahangirnagar University Robotics Club (JURC)
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Working on projects like Line Following Robots (LFR) and Robo Soccer
+      - Collaborating with team members on robotics innovations
+      - Organizing and participating in robotics workshops and events
+  - position: Web Development Intern
+    company_name: ABC Tech Solutions
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Built responsive and user-friendly web pages using HTML, CSS, and JavaScript
+      - Debugged and optimized existing web applications
+      - Collaborated with cross-functional teams for seamless project execution
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: C
+        description: ''
+        percent: 85
+        icon: code-bracket
+      - name: C++
         description: ''
         percent: 80
-        icon: code-bracket
-      - name: Data Science
+        icon: code-bracket-square
+      - name: Java
         description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
+        percent: 75
+        icon: coffee
+      - name: HTML & CSS
         description: ''
-        percent: 40
-        icon: circle-stack
+        percent: 90
+        icon: globe
+      - name: JavaScript
+        description: ''
+        percent: 70
+        icon: script
   - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+    color: '#42a5f5'
+    color_border: '#64b5f6'
     items:
       - name: Hiking
         description: ''
-        percent: 60
+        percent: 80
         icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
       - name: Photography
         description: ''
-        percent: 80
+        percent: 85
         icon: camera
+      - name: Badminton
+        description: ''
+        percent: 75
+        icon: badminton
 
 languages:
   - name: English
     percent: 100
-  - name: Chinese
+  - name: Hindi
     percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Spanish
+    percent: 75
+  - name: Arabic
+    percent: 80
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Freecodecamp Certification
+    url: https://www.freecodecamp.org/certification/AnjumanEkra/responsive-web-design
+    date: '2024-11-10'
+    awarder: Freecodecamp
+    icon: Freecodecamp
     summary: |
       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
+  
+  - title: 'Object-Oriented Programming '
     url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
     certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
+    date: '2024-11-05'
     awarder: datacamp
     icon: datacamp
     summary: |
@@ -179,4 +177,10 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am Anjuman Ekra, a Computer Science and Engineering (CSE) student in my 3rd year, 1st semester. My interests span web development, robotics, and data science. I have a strong foundation in programming languages such as C, C++, and Java, along with web development technologies like HTML and CSS.
+
+In addition to my academic pursuits, I am passionate about learning new technologies and contributing to innovative projects. I enjoy activities like hiking, photography, and playing badminton, which allow me to stay active and creative. I am also multilingual, proficient in English and Bangla, with a conversational understanding of Hindi.
+
+My goal is to continuously grow as a software developer and researcher, exploring cutting-edge fields like artificial intelligence and robotics to make impactful contributions to society.
+
+
