@@ -36,7 +36,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/AnjumanEkra
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/anjuman-ekra/
+    url: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
 
 interests:
   - Artificial Intelligence
