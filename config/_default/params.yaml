@@ -7,7 +7,6 @@
 appearance:
   mode: system
   color: emerald
-
 # SEO
 marketing:
   seo:
@@ -25,7 +24,9 @@ marketing:
   verification:
     google: ''
     baidu: ''
-
+#Site body
+body: 
+color: white
 # Site header
 header:
   navbar:
@@ -35,7 +36,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Anjuman Ekra" 
 
 # Site footer
 footer:
@@ -49,7 +50,7 @@ footer:
 
 # Localization
 locale:
-  date_format: 'Jan 2, 2006'
+  date_format: 'Jan 2, 2024'
   time_format: '3:04 PM'
 
 # Site features
