@@ -108,7 +108,7 @@ I am Anjuman Ekra, a 3rd-year Computer Science and Engineering (CSE) student wit
 ---
 ## Contact Me
 
-Email: anumanekra016305@gmail.com
+Email: anjumanekra016305@gmail.com
 
 GitHub: https://github.com/AnjumanEkra
 
