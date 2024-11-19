@@ -6,7 +6,7 @@ title: Anjuman Ekra
 name_pronunciation: ' '
 
 # Full name (for SEO)
-first_name: Anjuman
+first_name: Anjuman 
 last_name: Ekra
 
 # Status emoji
@@ -49,16 +49,16 @@ education:
     date_start: 2022-03-09
   
   - area: HSC (Science) 
-    institution: Narayanganj Govt. Girls High School
-    date_start: 2016-06-01
-    date_end: 2019-04-15
+    institution: Narayanganj Govt. Mohila College
+    date_start: 2018-06-01
+    date_end: 2020-04-15
     summary: |
       GPA: 5.0/5.0
 
   - area: SSC (Science)
     institution: Narayanganj Govt. Girls High School
-    date_start: 2010-01-01
-    date_end: 2016-02-15
+    date_start: 2007-01-01
+    date_end: 2018-02-15
     summary: |
       GPA: 5.0/5.0
 
@@ -105,7 +105,7 @@ languages:
 
 awards:
   - title: Responsive Web Design
-    url: https://www.freecodecamp.org/certification/Ummatun/responsive-web-design
+    url: https://www.freecodecamp.org/certification/AnjumanEkra/responsive-web-design
     date: '2024-10-24'
     awarder: freeCodeCamp
 
@@ -113,4 +113,5 @@ awards:
 
 ## About Me
 
-I am Anjuman Ekra, a 3rd-year Computer Science and Engineering (CSE) student with a strong passion for technology and innovation. I have hands-on experience in software development, focusing on web design, database management, and React-based projects. My expertise includes crafting user-friendly interfaces, building interactive applications like Tic-Tac-Toe, and working on complex systems such as the Digital Housing Society project. I am also skilled in problem-solving, teamwork, and delivering presentations. Constantly eager to learn and grow, I strive to merge creativity with technical skills to create impactful solutions.
+ 
+I am Anjuman Ekra, a 3rd-year Computer Science and Engineering (CSE) student with a strong passion for technology and innovation. I have hands-on experience in software development, focusing on web design, database management, and React-based projects. My expertise includes crafting user-friendly interfaces, building interactive applications like Tic-Tac-Toe, and working on complex systems such as the Digital Housing Society project. I am also skilled in problem-solving, teamwork, and delivering presentations. Constantly eager to learn and grow, I strive to merge creativity with technical skills to create impactful solutions..
