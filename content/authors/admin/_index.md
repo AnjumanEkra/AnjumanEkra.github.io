@@ -11,7 +11,7 @@ last_name: Ekra
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🎓
 
 # Is this the primary user of the site?
 superuser: true
@@ -31,13 +31,17 @@ organizations:
 
 
 profiles:
-  - icon: at-symbol
+- icon: at-symbol
     url: 'mailto:ekra.stu2019@juniv.edu'
     label: E-mail Me
+ - icon: brands/instagram
+    url: https://www.instagram.com/phoenix_eku/
+
   - icon: brands/github
     url: https://github.com/AnjumanEkra
-    label: Visit My GitHub
-
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/anjuman-ekra/
+ 
 interests:
   - Artificial Intelligence
   - Robotics
@@ -102,6 +106,10 @@ languages:
     percent: 70
   - name: Bangla
     percent: 100
+    - name: Hindi
+    percent: 70
+    - name: Spanish
+    percent: 70
 
 awards:
   - title: Responsive Web Design
