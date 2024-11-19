@@ -34,12 +34,12 @@ profiles:
 - icon: at-symbol
     url: 'mailto:ekra.stu2019@juniv.edu'
     label: E-mail Me
- - icon: brands/instagram
+- icon: brands/instagram
     url: https://www.instagram.com/phoenix_eku/
 
-  - icon: brands/github
+- icon: brands/github
     url: https://github.com/AnjumanEkra
-  - icon: brands/linkedin
+- icon: brands/linkedin
     url: https://www.linkedin.com/in/anjuman-ekra/
  
 interests:
