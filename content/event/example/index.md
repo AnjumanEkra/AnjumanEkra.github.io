@@ -8,7 +8,7 @@ location: Jahir Raihan Auditorium, Jahangirnagar University
 address:
   street: Jahir Raihan street
   city: Savar
-  region: Campus Area
+  region: Campus Area 
   postcode: 1415
   country: Bangladesh
 
