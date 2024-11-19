@@ -3,7 +3,7 @@
 title: Anjuman Ekra
 
 # Name pronunciation (optional)
-name_pronunciation: 
+name_pronunciation: ' '
 
 # Full name (for SEO)
 first_name: Anjuman
@@ -11,7 +11,7 @@ last_name: Ekra
 
 # Status emoji
 status:
-  icon: 🎓
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,163 +20,97 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: CSE Student
+role: Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Department of Computer Science And Engineering
-    url: https://juniv.edu/
+  - name: Department of Computer Sceince & Engineering
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+
+
 profiles:
   - icon: at-symbol
     url: 'mailto:ekra.stu2019@juniv.edu'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AnjumanEkra
-  - icon: brands/instagram
-    url:  https://www.instagram.com/phoenix_eku/
   - icon: brands/github
     url: https://github.com/AnjumanEkra
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/anjuman-are-ekra-b21b01336/?trk=opento_sprofile_topcard
-  
+    label: Visit My GitHub
 
 interests:
   - Artificial Intelligence
-  - Software Engineering
-  - Web Development
+  - Robotics
+  - Web Development 
 
 education:
-  - area: BSc Computer Science & Engineering
+  - area: Honours (Computer Science & Engineering)
     institution: Jahangirnagar University
-    date_start: 2021-01-01
-    date_end: 2025-12-31
-    summary: |
-      Focus on software development, machine learning, and data science.
-    button:
-      text: 'View Transcript'
-      url: 'https://xyz.edu/anjuman-ekra-transcript'
-  - area: HSC
-    institution: Narayanganj Govt. Mohila College
-    date_start: 2016-01-01
-    date_end: 2019-12-31
+    date_start: 2022-03-09
+  
+  - area: HSC (Science) 
+    institution: Narayanganj Govt. Girls High School
+    date_start: 2016-06-01
+    date_end: 2019-04-15
     summary: |
       GPA: 5.0/5.0
-      
-      Subjects included:
-      - Mathematics
-      - Chemistry
-      - Physics
-      -Biolology
-  - area: SSC
-    institution: Narayanganj Govt. Girls High School And College
-    date_start: 2011-01-01
-    date_end: 2016-12-31
+
+  - area: SSC (Science)
+    institution: Narayanganj Govt. Girls High School
+    date_start: 2010-01-01
+    date_end: 2016-02-15
     summary: |
       GPA: 5.0/5.0
-      
-      Subjects included:
-      - Mathematics
-      - Chemistry
-      - Physics
-      -Biolology
 
-work:
-  - position: Intern
-    company_name: Tech Innovations
-    company_url: ''
-    company_logo: ''
-    date_start: 2023-06-01
-    date_end: 2023-08-31
-    summary: |
-      Responsibilities include:
-      - Developed web applications using React.js and Node.js
-      - Collaborated with the development team to implement new features
-      - Improved UI/UX design of the company's website
-  - position: Freelance Web Developer
-    company_name: Self-employed
-    company_url: ''
-    company_logo: ''
-    date_start: 2022-06-01
-    date_end: 2023-05-31
-    summary: |
-      Responsibilities include:
-      - Designed and developed websites for clients
-      - Implemented responsive design for better user experience
-      - Optimized websites for search engines (SEO)
-
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: C++
         description: ''
-        percent: 75
+        percent: 90
         icon: code-bracket
-      - name: Web Development
+      - name: HTML
         description: ''
-        percent: 80
-        icon: code
-      - name: Machine Learning
-        description: ''
-        percent: 60
-        icon: brain
-  - name: Hobbies
-    color: '#ff5733'
-    color_border: '#ff6f47'
-    items:
-      - name: Reading
-        description: ''
-        percent: 80
-        icon: book
-      - name: Traveling
+        percent: 90
+        icon: chart-bar
+      - name: CSS
         description: ''
         percent: 70
-        icon: plane
-      - name: Photography
+        icon: circle-stack   
+      - name: Arduino
         description: ''
-        percent: 60
-        icon: camera
+        percent: 70
+        icon: circle-stack   
+  
+
+work:
+  - position: Member of Jahangirnagar University Robotics Club(JURC)
+    company_name: ''
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-08-01
+    date_end: ''
+    summary: |
+      Responsibilities include:
+      - Line Following Robot (LFR)
+      - Ultrasonic Sensor
+      - Six Degree of Freedom(6 DOF) of Robot
+      - Maze Solve  
 
 languages:
   - name: English
-    percent: 90
-  - name: Bengali
+    percent: 70
+  - name: Bangla
     percent: 100
-  - name: Hindi
-    percent: 75
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below
 awards:
-  - title: Web Development Bootcamp
-    url: https://www.udemy.com/course/the-web-developer-bootcamp/
-    date: '2024-04-01'
-    awarder: Udemy
-    icon: udemy
-    summary: |
-      Completed a comprehensive web development bootcamp covering front-end and back-end technologies. Gained hands-on experience with React, Node.js, HTML, CSS, and JavaScript.
-  - title: Data Science Fundamentals
-    url: https://www.coursera.org/learn/data-science-fundamentals
-    date: '2023-12-15'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      Learned essential concepts in data science, including data manipulation, analysis, and visualization techniques using Python and R.
-  - title: Programming with Python
-    url: https://www.datacamp.com/courses/intro-to-python
-    certificate_url: https://www.datacamp.com
-    date: '2023-06-10'
-    awarder: DataCamp
-    icon: datacamp
-    summary: |
-      Covered the basics of Python programming, including variables, data types, control structures, and functions.
+  - title: Responsive Web Design
+    url: https://www.freecodecamp.org/certification/Ummatun/responsive-web-design
+    date: '2024-10-24'
+    awarder: freeCodeCamp
+
 ---
+
 ## About Me
 
-Anjuman Ekra is a third-year Computer Science & Engineering student passionate about artificial intelligence, software development, and web technologies. She is committed to exploring machine learning, data science, and web development, and has experience working on web applications, both independently and as an intern.
+I am Anjuman Ekra, a 3rd-year Computer Science and Engineering (CSE) student with a strong passion for technology and innovation. I have hands-on experience in software development, focusing on web design, database management, and React-based projects. My expertise includes crafting user-friendly interfaces, building interactive applications like Tic-Tac-Toe, and working on complex systems such as the Digital Housing Society project. I am also skilled in problem-solving, teamwork, and delivering presentations. Constantly eager to learn and grow, I strive to merge creativity with technical skills to create impactful solutions.
