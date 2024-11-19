@@ -1,25 +1,61 @@
-############################
-## HUGO MODULES
-## Install or uninstall themes and plugins here.
-## Docs: https://gohugo.io/hugo-modules/
-############################
+# SITE SETUP
+# Guide: https://docs.hugoblox.com/tutorial/
+# Documentation: https://docs.hugoblox.com/
+# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-imports:
-  - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify
-  - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind
+# Appearance
+appearance:
+  mode: system
+  color: emerald
+# SEO
+marketing:
+  seo:
+    site_type: Person
+    local_business_type: ''
+    org_name: ''
+    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
+    twitter: 'GetResearchDev'
+  analytics:
+    google_analytics: ''
+    baidu_tongji: ''
+    plausible: ''
+    fathom: ''
+    pirsch: ''
+  verification:
+    google: ''
+    baidu: ''
+#Site body
+body: 
+color: white
+# Site header
+header:
+  navbar:
+    enable: true
+    blox: "navbar"
+    fixed_to_top: true
+    show_search: true
+    show_theme_chooser: true
+    logo:
+      text: "Anjuman Ekra" 
 
-# Install any Hugo Blox within the `hugo-blox/blox/` folder
-mounts:
-  - source: hugo-blox/blox/community
-    target: layouts/partials/blox/community/
-    includeFiles: '**.html'
-  - source: hugo-blox/blox/all-access
-    target: layouts/partials/blox/
-    includeFiles: '**.html'
-  - source: hugo-blox/blox
-    target: assets/dist/community/blox/
-    includeFiles: '**.css'
-  - source: layouts
-    target: layouts
-  - source: assets
-    target: assets
+# Site footer
+footer:
+  copyright:
+    notice: '© {year} Me. This work is licensed under {license}'
+    license:
+      enable: true
+      allow_derivatives: false
+      share_alike: true
+      allow_commercial: false
+
+# Localization
+locale:
+  date_format: 'Jan 2, 2006'
+  time_format: '3:04 PM'
+
+# Site features
+features:
+  math:
+    enable: false
+  privacy_pack:
+    enable: false
