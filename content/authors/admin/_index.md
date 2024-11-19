@@ -80,7 +80,7 @@ skills:
       - name: Arduino
         description: ''
         percent: 70
-        icon: circle-stack
+        icon: Circle-stack
 
 work:
   - position: Member of Jahangirnagar University Robotics Club (JURC)
