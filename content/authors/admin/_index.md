@@ -29,7 +29,7 @@ organizations:
 # Social network links
 profiles:
   - icon: at-symbol
-    url: 'mailto:ekra.stu2019@juniv.edu'
+    url: 'mailto:anjumanekra016305@gmail.com'
     label: E-mail Me
   - icon: brands/instagram
     url: https://www.instagram.com/phoenix_eku/
