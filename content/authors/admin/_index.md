@@ -114,7 +114,7 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 70
+        percent: 75
         icon: code-bracket
       - name: Web Development
         description: ''
